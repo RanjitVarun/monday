@@ -1,0 +1,46 @@
+.loginBox
+{
+    width:250px;
+    height: auto;
+    padding:20px 30px;
+    
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 #000;
+    margin:auto;
+    background:rgba(0,0,0,0.5);
+    
+
+    
+}
+body{
+    background-image:url(image.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+    padding-top: 15vh
+}
+ul.list
+{
+    list-style-type: none;
+    
+    
+}
+ul.list li{
+    width: 250px;
+    margin-bottom: 8px;
+}
+ul.list li input{
+    text-align: center;
+    padding: 8px 0px;
+    border-radius: 5px;
+   
+
+    
+}
+ul.list li input[type="button"]
+{
+    
+    background-color:ghostwhite;
+    
+    
+
+}

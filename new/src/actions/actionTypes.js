@@ -1,0 +1,5 @@
+
+
+export const CREATE_NEW_MOVIE = 'CREATE_NEW_MOVIE';
+export const REMOVE_MOVIE = 'REMOVE_MOVIE';
+
